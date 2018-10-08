@@ -1,6 +1,6 @@
 {
   "name": "codeworks-coding-queens-exercise",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A Codeworks exercise to train students",
   "scripts": {
     "test": "mocha",

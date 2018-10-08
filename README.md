@@ -33,4 +33,5 @@ Your algorithms are stored as separate files in the `scripts` folder.
 
 - Implement a solution that leverages [bitwise](https://en.wikipedia.org/wiki/Bitwise_operation) operations.
 - Profile the memory usage and execution time of the bitwise version against the regular one.
+- Write a function that generates a maze, and randomizes a start and end point within it. Then implement the [Dijkstra](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) or [A*](https://en.wikipedia.org/wiki/A*_search_algorithm) algorithm to find the shortest path connecting the two points.
 - Pick any challenges you find interesting on [Project Euler](https://projecteuler.net/). For each working solution you implement, indicate the algorithm’s space and time complexity.
